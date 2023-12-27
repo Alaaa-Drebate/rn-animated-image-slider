@@ -2,6 +2,7 @@
   "name": "rn-animated-image-slider",
   "version": "1.0.0",
   "description": "Welcome to our React Native Animated Image Slider! This library is inspired by the beautiful and intuitive design of Apple's Memories app, bringing a touch of elegance to your React Native applications.Our Animated Image Slider is not just a simple carousel of images. It's a dynamic, interactive, and visually appealing component that enhances the user experience. With smooth transitions and subtle animations, users can easily navigate through their favorite photos or any other content.",
+  "private": false,
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
   "types": "lib/typescript/src/index.d.ts",
